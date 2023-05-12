@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hello World 👋
+Welcome to the Github repositories for Social AI Studio! We are an interdisciplinary research group based at the Singapore University of Technology and Design (SUTD). The studio's mission is to foster the design of next-generation socially-enabled artificial intelligence (AI) systems using data science, social computing, machine learning, and natural language generation techniques. Research is conducted to: 
+1. Analyze big data to improve our understanding of social behaviors, events, and issues.
+2. Develop novel algorithms that create positive social impact and enhance user experiences in social platforms.
+3. Assess the impact and provide support for the development of new social policies 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Research Areas
+Currently, we are focusing on the following research areas: 
+- User Profiling in Multiple Online Social Platforms
+- Online Safety & Cyber Abuse Research (OSCAR) 
+- Social Natural Language Generation
+- Social Recommender Systems
